@@ -7,9 +7,6 @@ Trata-se de uma API construída com as tecnologias Java openSDK 11 (LTS) / JPA /
 ### Veja aqui como ficou o projeto no heroku!
 https://tela-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
 
-### Integração com o Frontend:
-https://icarogga.github.io/Stocks/
-
 ======================================================
 
 ![1](images/1.png)
